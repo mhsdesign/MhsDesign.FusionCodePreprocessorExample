@@ -1,4 +1,5 @@
 
+# While working on the preprocessor, you will need to turn off the enableParsePartialsCache, so your changes will haven an effect
 Neos:
   Fusion:
-    enableParsePartialsCache: true
+    enableParsePartialsCache: false
